@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Color scheme hexadecimal values: 20E05F 29332C 37AD08 9E47B8 8426E0*/
+
+/* The body tag style applies to all elements on the page */
+
+h1 {
+	color: white;
+	}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
