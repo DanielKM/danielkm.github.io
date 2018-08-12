@@ -1,8 +1,8 @@
 ## What does it do? 
-This is my personal website that I developed to showcase my science skills.
+This is my personal website that I developed to showcase my skills.
 
 ## What technologies are used?
-HTML5, CSS3
+HTML5, CSS3, Bootstrap
 
 ## What is the ambition of the project? 
 This project was to make my personal website.
