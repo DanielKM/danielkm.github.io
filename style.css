@@ -35,6 +35,21 @@ h1 {
 	padding-bottom: 20px;
 }
 
+.paddtop {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.bordbot {
+	border-bottom: 1px black solid;
+}
+
+#personalityPad {
+	margin-top: -27px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
 #adjusted {
 	float: right;
 	border: solid 1px black;
