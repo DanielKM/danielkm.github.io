@@ -31,6 +31,10 @@ h1 {
 	margin-bottom: 20px;
 }
 
+.paddbot {
+	padding-bottom: 20px;
+}
+
 #adjusted {
 	float: right;
 	border: solid 1px black;
