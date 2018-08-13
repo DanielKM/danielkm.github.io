@@ -51,12 +51,19 @@ h1 {
 }
 
 #adjusted {
-	float: right;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 	border: solid 1px black;
 }
 
 #adjusted2 {
-	float: right;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	margin-top: 20px;
 	border: solid 1px black;
 }
 
